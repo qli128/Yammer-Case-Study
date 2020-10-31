@@ -6,7 +6,9 @@
 
 ### Description
 These are the case studies provided by MODE SQL Tutorial. I finished it under python `pandasql` API so the major queries were done by SQL. This API can returns pandas dataframe thus it's very convinient on visualizing data after extracting data.
+
 The first one is about investiagting drop of engagement from July to August, 2014. I conducted several analysis, including time, email types, major events, users activity and region. Later I drew conclusions on what I've found and made recommendations for further analysis.
+
 The second one is to analyze whether there exists problems on 'search' function within Yammer. I looked into users search behaviors, click through and search results, and conclude that the recommended search results should be re-ordering based on users preferences.
 
 
