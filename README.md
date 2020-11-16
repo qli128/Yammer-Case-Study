@@ -1,6 +1,7 @@
 # Yammer-Case-Study
 1. Investigating a Drop in User Engagement
 2. Understanding Search Functionality
+3. Validating A/B Test Results
 
 
 
@@ -10,6 +11,8 @@ These are the case studies provided by MODE SQL Tutorial. I finished it under py
 The first one is about investiagting drop of engagement from July to August, 2014. I conducted several analysis, including time, email types, major events, users activity and region. Later I drew conclusions on what I've found and made recommendations for further analysis.
 
 The second one is to analyze whether there exists problems on 'search' function within Yammer. I looked into users search behaviors, click through and search results, and conclude that the recommended search results should be re-ordering based on users preferences.
+
+The third one is to conduct A/B test on deciding whether to launch new features by spliting users into control and experiment group and observing the change of relavant metrics. After evaluting several metrics that might reflect users reaction using hypothesis test of two samples, I would suggest to launch this new feature.
 
 
 
