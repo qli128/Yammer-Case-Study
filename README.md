@@ -6,7 +6,7 @@
 
 
 ### Description
-These are the case studies provided by MODE SQL Tutorial. I finished it under python `pandasql` API so the major queries were done by SQL. This API can returns pandas dataframe thus it's very convinient on visualizing data after extracting data.
+These are the case studies provided by MODE.com SQL Tutorial. I did major queries in SQL to select analytical information (through `pandasql` API), but I also conducted some data manipulation and visualization in Python (mainly on `pandas`, `matplotlib` libraries).
 
 The first one is about investiagting drop of engagement from July to August, 2014. I conducted several analysis, including time, email types, major events, users activity and region. Later I drew conclusions on what I've found and made recommendations for further analysis.
 
